@@ -1,6 +1,6 @@
 my life my rules
 
-i am born in 1999.
+i am born in 1999 in 23rd February
 
 My name is HRIDOY BISWAS DIPU.
 
@@ -27,6 +27,7 @@ i want to by a bike in 2023...  Hope I will able to do this...  hey God please s
 
 
 logo alignment is centered....
+
 
 
 New Line is Added....... from main branch
